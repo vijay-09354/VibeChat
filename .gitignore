@@ -28,3 +28,25 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 node_modules/
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.backup
+
+# Uploaded media
+server/uploads/
+
+# Build files
+dist/
+build/
+
+# Editor
+.vscode/
