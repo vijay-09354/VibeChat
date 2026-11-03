@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build files
+dist/
+build/
+client/dist/
+
+# Android build files
+.gradle/
+android/.gradle/
+android/app/build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
