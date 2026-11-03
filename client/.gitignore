@@ -22,3 +22,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.backup
+
+# Uploaded media
+server/uploads/
+
+# Build files
+dist/
+build/
+
+# Editor folders
+.vscode/

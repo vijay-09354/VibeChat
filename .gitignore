@@ -49,4 +49,14 @@ dist/
 build/
 
 # Editor
+.vscode/node_modules/
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+*.backup
+server/uploads/
+dist/
+build/
 .vscode/
