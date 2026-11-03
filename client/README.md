@@ -1,16 +1,68 @@
-# React + Vite
+💬 VibeChat – Real-Time Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VibeChat is a modern messaging application designed to provide a smooth and user-friendly communication experience.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* User Authentication
+* Real-Time Messaging
+* User Contacts
+* Chat Dashboard
+* Media Sharing (In Development)
+* Voice and Video Calling (Planned)
+* Responsive User Interface
 
-## React Compiler
+🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend
 
-## Expanding the ESLint configuration
+* React.js
+* Vite
+* CSS
+* JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Backend
+
+* Node.js
+* Express.js
+* Prisma ORM
+
+Database
+
+* Project-configured database
+
+📁 Project Structure
+
+VibeChat/
+├── client/
+├── server/
+├── package.json
+├── package-lock.json
+└── README.md
+
+⚙️ Installation
+
+1. Clone the repository:
+
+git clone https://github.com/vijay-09354/VibeChat.git
+
+2. Open the project:
+
+cd VibeChat
+
+3. Install dependencies:
+
+npm install
+
+4. Configure environment variables.
+5. Start the backend and frontend using their respective development commands.
+
+👨‍💻 Developer
+
+Vijaykumar Vighne
+
+GitHub: https://github.com/vijay-09354
+
+⸻
+
+⭐ Thank you for visiting VibeChat!
